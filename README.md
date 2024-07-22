@@ -36,7 +36,9 @@ cd titanic-survival-analysis
 2. Run the Jupyter notebook or Python scripts to reproduce the analysis:
 
 jupyter notebook titanic_analysis.ipynb
+
 Or:
+
 python titanic_analysis.py
 
 # Analysis
